@@ -1,99 +1,41 @@
 ---
-title: "About"
+title: "About Me"
 permalink: "/about/"
 layout: page
 ---
 
-## Installation
+## OBJECTIVE STATEMENT:
+Recent college graduate in Criminal Justice and Cyber Criminology pursuing an entry level opportunity or intern program in software, cyber security or information technology. Currently enrolled in Cyber Security and Computer Science program for additional training. Strong customer service, organizational, and time management skills.  Willing to re-locate for a job opportunity.
 
-Just fork this [repository](https://github.com/niklasbuschmann/contrast) and adjust the `_config.yml` to use with [Github Pages](https://pages.github.com/) and your page is done.
+## EDUCATION: 
+# Computer Information Systems / Cybersecurity Essentials Certificate Program
+Calhoun Community College, Huntsville, AL – Program completion in Spring 2024
 
-## Features
+# Bachelor of Arts & Sciences, Criminology & Criminal Justice, with a Cyber Criminology Minor
+The University of Alabama in Tuscaloosa, Graduated May 2023; Major GPA: 3.972
 
- - supports dark mode on macOS Mojave
- - optional sidebar
- - MathJax support
- - no external ressources
- - included archive page
- - supports pagination
- - feed generation
- - responsive
- - syntax highlighting
- - supports comments via [disqus](https://disqus.com/) or [isso](http://posativ.org/isso/)
+# Associate of Science, Computer Science
+Calhoun Community College, Huntsville, AL, Expected Graduation August 2024
 
-## Based on
+## CERTIFICATIONS:
+•	Security+; Spring 2024 Exam
+•	CompTIA IT Fundamentals Certification (May 2017)
+•	Future certification plans include: PenTest+, Linux+, and Networking+
 
-- [Hyde](https://github.com/poole/hyde)
-- [Minima](https://github.com/jekyll/minima)
-- [Lagrange](https://github.com/LeNPaul/Lagrange)
-- [Font Awesome](http://fontawesome.io/)
-- [KaTeX](https://katex.org/)
-- [Pygments](https://github.com/richleland/pygments-css)
+## SPECIAL SKILLS / CLASSES: 
+•	Software courses completed in Python, Networking and Linux
+•	Strong computer skills including Microsoft Office Products
+•	Working knowledge of C, C++ and HTML
 
-## Installation (jekyll-remote-theme method)
+## PRIOR WORK EXPERIENCE: 
+•	Robert Trent Jones Golf Course at Hampton Cove Guest Services (May – August 2018 & 2019) -- First impressions, customer service, and operations support at one of Alabama’s premiere collections of golf courses
 
-You can use this theme with the `jekyll-remote-theme` plugin. Just create an empty repo, copy over the `index.html` file and add this to your `_config.yml`:
+## INVOLVEMENT: 
+•	Member of Beta Theta Pi Fraternity (Eight Semesters), University of Alabama
 
-```yaml
-remote_theme: niklasbuschmann/contrast@v2.11
+## LEADERSHIP:
+•	Pledge Class President: 2018-2019 Pledge Class of Beta Theta Pi -- Maintained organization and leadership for a pledge class of fifty-one members
 
-plugins:
-  - jekyll-remote-theme
-```
-
-Note: to enable icons you also need to copy over the `_data` folder.
-
-## Config
-
-Your `_config.yml` could for example look like this:
-
-```yaml
-title: "Blog Title"
-author: "Blog Author"
-description: "My personal blog about ... something"
-permalink: /:title/
-lang: "en"
-excerpt_separator: "\n\n\n"
-date_format: "%B %d, %Y"
-
-# Layout
-
-show_excerpts: true        # show article excerpts on the home page
-show_frame: true           # adds a gray frame to the site
-show_sidebar: false        # show a sidebar instead of the usual header
-
-# Menu
-
-navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html"}
-  - {file: "README.md"}
-
-external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
-
-comments:
-#  disqus_shortname: ""    # see https://disqus.com/
-#  isso_domain: ""         # see https://posativ.org/isso/
-
-plugins:
- - jekyll-feed
-
-```
-
-## MathJax
-
-Contrast comes preinstalled with a leightweight alternative to MathJax called [KaTeX](https://katex.org/). To display equations in a post simply set `mathjax: true` in the article's front matter.
-
-## License
-
-[public domain](http://unlicense.org/)
-
-## Screenshots
-
-![screenshot](https://user-images.githubusercontent.com/4943215/109431850-cd711780-7a08-11eb-8601-2763f2ee6bb4.png)
-
-![screenshot](https://user-images.githubusercontent.com/4943215/109431832-b6cac080-7a08-11eb-9c5e-a058680c23a1.png)
-
-![screenshot](https://user-images.githubusercontent.com/4943215/73125194-5f0b8b80-3fa4-11ea-805c-8387187503ad.png)
+## VOLUNTEER WORK:
+•	Beta Theta Pi St. Jude’s Children’s Research Fundraiser 2020
+•	Beta Theta Pi Red Cross Blood Drive 2019
