@@ -17,5 +17,7 @@ This command returned the nameserver for the domain; however, by using the set t
 
 At this point, I switched to the OpenSUSE virtual machine and began familiarizing myself with nslookup commands on the OpenSUSE machine, while comparing nslookup to dig. To do this I entered the command:
   - dig @(IP address) (domain name) ns
+![image](https://github.com/Devin10Dahlberg/devin10dahlberg.github.io/assets/149525072/91601241-88f0-4292-89ba-d8a864236b28)
+
 
 
