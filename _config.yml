@@ -1,6 +1,6 @@
-title: "Blog Title"
-author: "Blog Author"
-description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
+title: "Devin Dahlberg"
+author: "Devin Dahlberg"
+description: "BA - University of Alabama | AS - Calhoun Community College"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
