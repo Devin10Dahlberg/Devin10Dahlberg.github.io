@@ -1,5 +1,5 @@
 ---
-title: "Lab 1: DNS Footprinting"
+title: "DNS Footprinting"
 layout: post
 ---
 This lab...
