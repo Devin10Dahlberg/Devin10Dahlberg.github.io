@@ -51,5 +51,6 @@ Once the service is restarted I opened a window of Mozilla Firefox and typed htt
 
 From this point, I was able to recognize that a self-signed SSL Certificate was successfully implemented and clicked on the padlock to view the certificate.
 
-<img width="405" alt="image" src="https://github.com/Devin10Dahlberg/devin10dahlberg.github.io/assets/149525072/857b1341-c1da-4e5c-9881-fb43d92eb254">
+![image](https://github.com/Devin10Dahlberg/devin10dahlberg.github.io/assets/149525072/5ae82c00-ddeb-44f9-a045-4888348062fc)
+
 
