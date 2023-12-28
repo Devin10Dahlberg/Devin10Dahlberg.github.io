@@ -127,9 +127,13 @@ To begin, I entered the command:
 I then modified the created file by entering:
 
 @echo off
+
 dir /s c:\users\*.*
+
 echo YOU HAVE BEEN HACKED
+
 pause
+
 
 This displays the phrase YOU HAVE BEEN HACKED in the command prompt without the window closing automatically on the target system.
 
