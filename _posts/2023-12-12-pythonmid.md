@@ -3,7 +3,7 @@ title: "Python: Assignment Five"
 layout: post
 ---
 
-```
+```py
 #1. Write a while loop that asks the user to enter two numbers.
 #2. Your variable names should be num1 for the first number and num2 for the second number.
 #3. num1 and num2 should not be a negative number.  Use an if statement to force the user to enter a non-negative number for num1 and num2.
