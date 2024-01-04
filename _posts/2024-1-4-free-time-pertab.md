@@ -39,7 +39,7 @@ def main():
         if again == 1:
             main()
         elif again == 2:
-            exit(0)
+            exit()
         else:
             print("Invalid option. Exiting...")
             exit()
@@ -62,7 +62,7 @@ def main():
         if again == 1:
             main()
         elif again == 2:
-            exit(0)
+            exit()
         else:
             print("Invalid option. Exiting...")
             exit()
@@ -85,7 +85,7 @@ def main():
         if again == 1:
             main()
         elif again == 2:
-            exit(0)
+            exit()
         else:
             print("Invalid option. Exiting...")
             exit()
