@@ -24,7 +24,7 @@ Here I was able to find information with specific details of the vulnerability, 
 
 
 
-For the next portion of the exercise, I practice web hacking using the Web Goat platform and attempted to access the account "alice".
+For the next portion of the exercise, I practiced web hacking using the Web Goat platform and attempted to access the account "alice".
 
 To begin, I launched a window of Firefox and in the address bar I entered a given IP address, and click OWASP WebGoat.
 
